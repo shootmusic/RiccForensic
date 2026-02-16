@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # RICC FORENSIC v1.0
                                                                                 
 
@@ -151,7 +150,5 @@ REQUIREMENTS
 KREDIT
 RICC FORENSIC v1.0
 Repository: https://github.com/shootmusic/RiccForensic
-Developed by RICC
-
-
-
+Developed 
+# R
